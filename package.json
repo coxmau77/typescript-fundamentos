@@ -1,15 +1,19 @@
 {
-  "name": "ts-project",
+  "name": "typescript-fundamentos",
   "version": "0.0.0",
-  "description": "Fundamentos de TypeScript",
+  "description": "Ejemplos y practicas con TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "typescript",
+    "javaScript"
+  ],
   "author": "Mauricio Cox",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "4.5.5"
+    "typescript": "^5.4.5"
   }
 }
